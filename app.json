@@ -1,0 +1,12 @@
+{
+  "name": "native-tut",
+  "displayName": "native-tut",
+  "expo": {
+    "name": "native-tut",
+    "slug": "native-tut",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
